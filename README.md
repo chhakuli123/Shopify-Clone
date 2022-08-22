@@ -1,4 +1,5 @@
-# Shopify | Shopify-Clone 
+# Shopify | Shopify-Clone
+## by chhakuli zingare 
 ![Tailwind Project](https://img.shields.io/badge/Tailwind%20-project-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow) ![lco](https://img.shields.io/badge/iNeuron-LCO-green)
 
 # Hi Everyone!!👋
